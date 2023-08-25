@@ -10,9 +10,11 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@nuxt/image": "^1.0.0-rc.1",
+    "@nuxthq/ui": "^2.7.0",
     "@types/node": "^20.5.6",
     "ai": "^2.2.9",
+    "daisyui": "^3.6.3",
     "nuxt": "^3.6.5",
     "openai": "^4.2.0"
   }
