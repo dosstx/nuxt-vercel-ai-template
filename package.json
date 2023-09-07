@@ -12,10 +12,16 @@
     "@nuxt/devtools": "latest",
     "@nuxt/image": "^1.0.0-rc.1",
     "@nuxthq/ui": "^2.7.0",
+    "@pinia/nuxt": "^0.4.11",
     "@types/node": "^20.5.6",
-    "ai": "^2.2.9",
-    "daisyui": "^3.6.3",
-    "nuxt": "^3.6.5",
-    "openai": "^4.2.0"
+    "ai": "^2.2.11",
+    "daisyui": "^3.7.3",
+    "nuxt": "^3.7.1",
+    "openai": "^4.5.0",
+    "pinia": "^2.1.6",
+    "vue3-markdown-it": "^1.0.10"
+  },
+  "overrides": {
+    "vue": "latest"
   }
 }
